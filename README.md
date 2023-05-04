@@ -4,7 +4,7 @@ Hi 👋 My name is Kadir Nurkovic
 Front End Developer
 -------------------
 
-As a Front End Web Developer, my role is to create and implement visually appealing and user-friendly web interfaces. I have a strong understanding of HTML, CSS, and JavaScript, as well as frameworks like React. I am responsible for designing and developing website layouts, user interfaces, and other interactive elements that enhance user engagement and experience.
+As a Front End Web Developer, my role is to create and implement visually appealing and user-friendly web interfaces. I have a strong understanding of HTML, CSS, and JavaScript, as well as framework React. I am responsible for designing and developing website layouts, user interfaces, and other interactive elements that enhance user engagement and experience.
 
 * 🌍  I'm based in Novi Pazar
 * ✉️  You can contact me at [kadirnurkovic0404@gmail.com](mailto:kadirnurkovic0404@gmail.com)

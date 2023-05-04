@@ -24,7 +24,7 @@ As a Front End Web Developer, my role is to create and implement visually appeal
                 
                   
                   
-                <p align="left">
+ <p align="left">
                           
                       <a href="https://www.github.com/kadirnurkovic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
